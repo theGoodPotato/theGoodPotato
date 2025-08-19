@@ -6,6 +6,8 @@ The code on my GitHub is to showcase my work and let them be used by others for 
 This is why I make it avaliable using a free software licence. 
 If my contribution graph doesn't show any activity, it is because I work better when I switch between projects. I have not left GitHub! 
 
+All my new commits should be verified under vigilant mode. 
+
 To contact me, make an issue in this repository. 
 
 (This text licenced under the CC BY-SA 4.0)
